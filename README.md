@@ -4,10 +4,11 @@
 
 |title|value|
 |---|---|
-|氏名|原 光太朗(Kotaro Hara)|
+|氏名|Kotaro Hara|
 |生年月日|2001/09/18|
 |Twitter|[@natadekoko68](https://twitter.com/natadekoko68)|
 |Github|[@natadekoko68](https://github.com/natadekoko68)|
+|LinkedIn|[link](https://www.linkedin.com/in/khara68)|
 
 ## 学歴/研究
 
