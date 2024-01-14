@@ -1,0 +1,78 @@
+# 職務経歴書
+
+## 基本情報
+
+|title|value|
+|---|---|
+|氏名|原 光太朗(Kotaro Hara)|
+|生年月日|2001/09/18|
+|Twitter|[@natadekoko68](https://twitter.com/natadekoko68)|
+|Github|[@natadekoko68](https://github.com/natadekoko68)|
+
+## 学歴/研究
+
+### 筑波大学附属駒場高等学校 (2016-2020)
+
+### 東京大学教養学部 前期課程 (2021-2023)
+
+### 東京大学薬学部 薬科学科 (2023-現在)
+
+
+## 意欲/興味
+- 生物学(特に生物物理学・構造生物学・脳科学)
+
+- バイオインフォマティクス・創薬
+
+- 機械学習・強化学習
+
+
+## 職務経歴
+
+### [社内規定のため秘匿] (2021-現在)
+
+#### IT部門 
+- SQL, pandas, matplotlib, plotly
+
+### 株式会社 AGRISMILE (2021-現在)
+
+#### 産地事業部 学生インターン
+- Adobe Premiere Pro
+
+
+
+## 技術スタック
+
+使用したことがあるもの。
+
+### 言語
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+  <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat" alt="Golang">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
+</p>
+### 得意なライブラリ
+<p>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</p>
+
+### フレームワーク
+<p>
+  <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
+</p>
+
+### ミドルウェア
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
+</p>
+
+### その他技術、ツールなど
+
+<p>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github%20actions&logoColor=white&style=flat" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+
+</p>
+
