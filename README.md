@@ -53,10 +53,10 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat" alt="Golang">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
+<!--   <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat" alt="Golang"> -->
+<!--   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
 </p>
-
+ -->
 ### 得意なライブラリ
 <p>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
