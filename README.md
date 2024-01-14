@@ -17,12 +17,15 @@
   - 日本動物学会 高校生ポスター発表
   - 台湾国際研修 口頭発表・ポスター発表
   - SSH合同発表会 ポスター発表
+
 ### 東京大学教養学部 前期課程(理科二類) (2021-2023)
 - 生合成機構を模倣した1,3-ポリオール型ポリケチドの効率的合成法の開発
   - 東京大学生産技術研究所 物質系環境系部門 工藤研究室
+
 ### 東京大学薬学部 薬科学科 (2023-現在）
 
 ## 意欲/興味
+
 - 生物学(特に生物物理学・構造生物学・脳科学)
 
 - バイオインフォマティクス・創薬
@@ -35,11 +38,13 @@
 ### [社内規定のため秘匿] (2021-現在)
 
 #### IT部門 
+
 - SQL, pandas, matplotlib, plotly
 
 ### 株式会社 AGRISMILE (2021-現在)
 
 #### 産地事業部 学生インターン
+
 - Adobe Premiere Pro
 
 
@@ -59,6 +64,7 @@
  -->
   
 ### 得意なライブラリ
+
 <p>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
@@ -69,11 +75,13 @@
 </p>
 
 ### フレームワーク
+
 <p>
   <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
 </p>
 
 ### ミドルウェア
+
 <p>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
 </p>
