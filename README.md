@@ -51,7 +51,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-  <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
   <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat" alt="Golang">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
 </p>
