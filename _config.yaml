@@ -1,3 +1,5 @@
-remote_theme: jekyll-theme-cayman
-plugins:
-- jekyll-theme-cayman
+theme: jekyll-theme-cayman
+
+# remote_theme: jekyll-theme-cayman
+# plugins:
+# - jekyll-theme-cayman
