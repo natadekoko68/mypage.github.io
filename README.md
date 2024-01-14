@@ -2,8 +2,6 @@
 
 ## 基本情報
 
-|title|value|
-|---|---|
 |氏名|Kotaro Hara|
 |生年月日|2001/09/18|
 |Twitter|[@natadekoko68](https://twitter.com/natadekoko68)|
