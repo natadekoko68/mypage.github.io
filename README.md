@@ -79,9 +79,7 @@
 ### その他技術、ツールなど
 
 <p>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github%20actions&logoColor=white&style=flat" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-
 </p>
 
